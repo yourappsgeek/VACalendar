@@ -2,7 +2,8 @@
 //  VACalendar.h
 //  VACalendar
 //
-//  Created by Anton Vodolazkyi on 04.03.18.
+//  Created by Burhan Ahmed on 29/11/2018.
+//  Copyright © 2018 Burhan Ahmed. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -2,8 +2,8 @@
 //  VAMonth.swift
 //  VACalendar
 //
-//  Created by Anton Vodolazkyi on 20.02.18.
-//  Copyright © 2018 Vodolazkyi. All rights reserved.
+//  Created by Burhan Ahmed on 29/11/2018.
+//  Copyright © 2018 Burhan Ahmed. All rights reserved.
 //
 
 import Foundation
